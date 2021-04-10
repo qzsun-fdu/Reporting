@@ -1,2 +1,2 @@
 # Reporting
-This folder contains the slides I reported on different seminars.
+This folder contains the papers & slides I reported on different seminars.
