@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{A Precedent: Measuring Deadweight Loss}{10}{0}{2}
+\beamer@sectionintoc {3}{General Framework}{24}{0}{3}
+\beamer@sectionintoc {4}{Application 1: Income Taxation}{35}{0}{4}
+\beamer@sectionintoc {5}{Application 2: Social Insurance}{48}{0}{5}
+\beamer@sectionintoc {6}{Application 3: Behavioral Models}{59}{0}{6}
+\beamer@sectionintoc {7}{Conclusion: Other Applications}{64}{0}{7}
